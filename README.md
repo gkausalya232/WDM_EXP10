@@ -26,5 +26,13 @@
     <p>e. Click on the "Run" button to export the sentiment analysis results to a new Excel file.
 
 ### Output:
+![image](https://github.com/user-attachments/assets/44e845d7-ff16-4dfd-82aa-438f835d225d)
+![image](https://github.com/user-attachments/assets/b5853cb3-7814-4fd7-935b-27ecb81c12e4)
+![Uploading image.png…]()
+![Uploading image.png…]()
+
+
+
+
 
 ### Result:
